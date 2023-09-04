@@ -87,3 +87,21 @@ The STM32 PLC has a lot of functions you can select by touching the LCD.
 
 ## Status of the project
 It's done. I don't plan to update this project. Everything is working and it will remain that way.
+
+#######################################################__vcpkg.json____###################
+{
+  "name": "example-project",
+  "version-string": "0.0.1",
+  "license": "MIT",
+  "dependencies": [
+    "sdl2",
+    "opengl",
+    "mysql-connector-cpp",
+    "libmodbus",
+    "boost-asio",
+    "boost-date-time",
+    "boost-filesystem"
+  ],
+  "builtin-baseline": "4a600e9fea71bd7872080cbb716797e04d30e6d3"
+}
+
