@@ -16,6 +16,7 @@ This project is a PCB bord that has the following measurement and control input/
  * 1 x SPI with 3 chip select for ILI9341 LCD with touch
  * 1 x ST-Link V2 connection
  * 1 x RTC clock with two alarms A(date) and B(week day) and a battery holder so the RTC remembers the date and time
+   
 
 ## Protection 
  * All ADC, Digital Input, Differential ADC, Input Capture and Encoder are high voltage protected with PTC(fall current 30mA) fuse + 3.6v zener diode.
