@@ -105,3 +105,5 @@ It's done. I don't plan to update this project. Everything is working and it wil
   "builtin-baseline": "4a600e9fea71bd7872080cbb716797e04d30e6d3"
 }
 
+##########################################################___Error: baseline____###########
+[vcpkg x-update-baseline --add-initial-baseline]
